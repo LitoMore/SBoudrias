@@ -8,7 +8,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sboudrias&show_icons=true" alt="sboudrias" /></p>
 
 <p align="center">
-<a href="https://twitter.com/vaxilart" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vaxilart" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sboudrias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sboudrias" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1024223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1024223" height="30" width="30" /></a>
+<a href="https://x.com/vaxilart" target="blank">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ccc?viewbox=auto" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x?viewbox=auto" /><img alt="X/Twitter" height="30" src="https://cdn.simpleicons.org/x?viewbox=auto" /></picture></a>
+<a href="https://linkedin.com/in/sboudrias" target="blank"><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto" alt="sboudrias" height="30" /></a>
+<a href="https://stackoverflow.com/users/1024223" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow?viewbox=auto" alt="1024223" height="30" /></a>
 </p>
